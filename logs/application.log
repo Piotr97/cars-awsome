@@ -1,0 +1,15 @@
+2020-03-04 | 00:00:22.962 | [] |  WARN | HikariPool                     | (   779) | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h48m8s48ms).
+2020-03-04 | 01:48:29.921 | [] |  WARN | HikariPool                     | (   779) | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h48m6s923ms).
+2020-03-04 | 03:36:36.005 | [] |  WARN | HikariPool                     | (   779) | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h48m6s131ms).
+2020-03-04 | 03:57:55.953 | [] |  WARN | HikariPool                     | (   779) | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m19s898ms).
+2020-03-04 | 08:08:21.020 | [] |  WARN | HikariPool                     | (   779) | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4h10m25s92ms).
+2020-03-04 | 08:30:41.361 | [] |  WARN | HikariPool                     | (   779) | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m48s684ms).
+2020-03-04 | 08:35:00.209 | [] |  WARN | HikariPool                     | (   779) | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m48s836ms).
+2020-03-04 | 08:36:58.946 | [] |  WARN | HikariPool                     | (   779) | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m58s737ms).
+2020-03-04 | 08:37:27.836 | [] |  WARN | HikariPool                     | (   771) | HikariPool-1 - Retrograde clock change detected (housekeeper delta=28s890ms), soft-evicting connections from pool.
+2020-03-04 | 10:08:15.264 | [] |  WARN | HikariPool                     | (   779) | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m46s904ms).
+2020-03-04 | 10:40:09.434 | [] |  WARN | HikariPool                     | (   779) | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m24s32ms).
+2020-03-04 | 10:40:38.113 | [] |  WARN | HikariPool                     | (   771) | HikariPool-1 - Retrograde clock change detected (housekeeper delta=28s679ms), soft-evicting connections from pool.
+2020-03-04 | 13:23:49.717 | [] |  WARN | HikariPool                     | (   779) | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m27s210ms).
+2020-03-04 | 13:24:18.948 | [] |  WARN | HikariPool                     | (   771) | HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s232ms), soft-evicting connections from pool.
+2020-03-04 | 14:17:59.031 | [] |  WARN | HikariPool                     | (   779) | HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m9s826ms).
